@@ -44,9 +44,9 @@ const Contact = () => {
         <section>
             <div className="contact">
                 <h1>Contact</h1>
-                <p>Phone: 555-555-5555</p>
-                <p>Email: <a href="mailto:user@gmail.com">
-                    user@gmail.com
+                <p>Phone: 917-599-8334</p>
+                <p>Email: <a href="mailto:lavellut22@gmail.com">
+                    lavellut22@gmail.com
                 </a>
                 </p>
 
