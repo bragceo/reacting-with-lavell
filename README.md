@@ -42,9 +42,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Deployed URL
 
+https://bragceo.github.io/reacting-with-lavell/
 
 ## Github Repository
-
 
 ## Overview of Code structure and its components:
 
