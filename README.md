@@ -46,6 +46,8 @@ https://bragceo.github.io/reacting-with-lavell/
 
 ## Github Repository
 
+https://github.com/bragceo/reacting-with-lavell
+
 ## Overview of Code structure and its components:
 
 Here is a detailed overview of each file (note: Developer = me, Lavell Juan):
