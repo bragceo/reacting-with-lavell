@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reacting-with-lavell/static/css/main.8c07a499.css",
-    "main.js": "/reacting-with-lavell/static/js/main.164642e3.js",
+    "main.js": "/reacting-with-lavell/static/js/main.b6085d0f.js",
     "static/js/787.a2cb61a6.chunk.js": "/reacting-with-lavell/static/js/787.a2cb61a6.chunk.js",
     "static/media/career-crusade.png": "/reacting-with-lavell/static/media/career-crusade.5bfded002be604df63ee.png",
     "static/media/food-for-everyone.png": "/reacting-with-lavell/static/media/food-for-everyone.def261f04dcb1c02a494.png",
@@ -12,11 +12,11 @@
     "static/media/notes-taker.png": "/reacting-with-lavell/static/media/notes-taker.f67cf8edb0abe3cedb4a.png",
     "index.html": "/reacting-with-lavell/index.html",
     "main.8c07a499.css.map": "/reacting-with-lavell/static/css/main.8c07a499.css.map",
-    "main.164642e3.js.map": "/reacting-with-lavell/static/js/main.164642e3.js.map",
+    "main.b6085d0f.js.map": "/reacting-with-lavell/static/js/main.b6085d0f.js.map",
     "787.a2cb61a6.chunk.js.map": "/reacting-with-lavell/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c07a499.css",
-    "static/js/main.164642e3.js"
+    "static/js/main.b6085d0f.js"
   ]
 }
