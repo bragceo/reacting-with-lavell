@@ -9,7 +9,7 @@ import Resume from './components/Resume';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename='/reacting-with-lavell'>
       <Header />
       <div className='container'>
         <Routes>
