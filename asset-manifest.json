@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/reacting-with-lavell/static/css/main.8c07a499.css",
-    "main.js": "/reacting-with-lavell/static/js/main.b6085d0f.js",
+    "main.js": "/reacting-with-lavell/static/js/main.ef77fdbd.js",
     "static/js/787.a2cb61a6.chunk.js": "/reacting-with-lavell/static/js/787.a2cb61a6.chunk.js",
     "static/media/career-crusade.png": "/reacting-with-lavell/static/media/career-crusade.5bfded002be604df63ee.png",
     "static/media/food-for-everyone.png": "/reacting-with-lavell/static/media/food-for-everyone.def261f04dcb1c02a494.png",
     "static/media/resume.pdf": "/reacting-with-lavell/static/media/resume.4388e217b90dc3602460.pdf",
+    "static/media/startup.png": "/reacting-with-lavell/static/media/startup.8989d8175a9d93462a44.png",
     "static/media/tech-chronicles.png": "/reacting-with-lavell/static/media/tech-chronicles.7d815f601f4531ba26de.png",
     "static/media/daily-schedule.png": "/reacting-with-lavell/static/media/daily-schedule.1db1b8d1ed6fba152b14.png",
     "static/media/user.jpg": "/reacting-with-lavell/static/media/user.d16014ba8b90b4feb056.jpg",
     "static/media/notes-taker.png": "/reacting-with-lavell/static/media/notes-taker.f67cf8edb0abe3cedb4a.png",
     "index.html": "/reacting-with-lavell/index.html",
     "main.8c07a499.css.map": "/reacting-with-lavell/static/css/main.8c07a499.css.map",
-    "main.b6085d0f.js.map": "/reacting-with-lavell/static/js/main.b6085d0f.js.map",
+    "main.ef77fdbd.js.map": "/reacting-with-lavell/static/js/main.ef77fdbd.js.map",
     "787.a2cb61a6.chunk.js.map": "/reacting-with-lavell/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c07a499.css",
-    "static/js/main.b6085d0f.js"
+    "static/js/main.ef77fdbd.js"
   ]
 }
